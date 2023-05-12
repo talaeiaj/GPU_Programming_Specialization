@@ -1,0 +1,4 @@
+C++11: Thread retrieved ticket number: 0 started.
+C++11: Thread with ticket number: 0 completed.
+C++11: Signaling threads to do work.
+C++11: All threads completed.

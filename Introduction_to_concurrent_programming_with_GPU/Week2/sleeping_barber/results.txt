@@ -1,0 +1,109 @@
+----
+0
+student rate.
+Barber is sleeping...Barber is sleeping...Barber is sleeping...----
+
+
+Barber is awake.
+1
+
+------------------
+Barber sleep False
+------------------
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+Haircut finished. Haircut took 0.3288841804981779
+Thread-3
+adult rate.
+Customer haircut started.
+----Barber is sleeping...
+
+0
+senior rate.
+Customer haircut started.
+Barber is sleeping...----
+
+0
+senior rate.
+----Barber is sleeping...
+1
+
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+Haircut finished. Haircut took 1.3377900906041846
+Thread-2
+student rate.
+Barber is sleeping...----
+1
+
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+senior rate.
+----
+1
+Haircut finished. Haircut took 0.5908290917611423
+Thread-2
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+Haircut finished. Haircut took 2.7104932132170534
+Thread-1
+student rate.
+Barber is sleeping...----
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+1
+
+Customer haircut started.
+senior rate.
+----
+1
+Haircut finished. Haircut took 2.450166087673135
+Thread-3
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+senior rate.
+----
+1
+Haircut finished. Haircut took 1.9853271754582664
+Thread-2
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+senior rate.
+Haircut finished. Haircut took 2.706717722597557
+Thread-1
+Barber is awake.
+------------------
+Barber sleep False
+------------------
+Customer haircut started.
+Haircut finished. Haircut took 0.052076683744750385
+Thread-1
+Haircut finished. Haircut took 1.534793257177626
+Thread-2
+Haircut finished. Haircut took 2.6168745086043836
+Thread-3Barbers payment total:88
+

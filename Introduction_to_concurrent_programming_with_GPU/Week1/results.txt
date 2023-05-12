@@ -1,0 +1,4 @@
+rm -f assignment.exe
+g++ -o assignment.exe -I./ *.cpp
+./assignment.exe Amir
+Hello Amir!

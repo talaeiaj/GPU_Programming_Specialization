@@ -1,0 +1,6 @@
+Thread retrieved ticket number: 0 started
+Thread retrieved ticket number: 1 started
+Thread retrieved ticket number: 2 started
+Thread with ticket number: 1 completed
+Thread with ticket number: 0 completed
+Thread with ticket number: 2 completed

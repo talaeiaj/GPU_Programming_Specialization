@@ -1,0 +1,9 @@
+- Initializing...
+> Using device 0: NVIDIA A10G
+> GPU Device has SM 8.6 compute capability
+  Total amount of global memory:   23659937792 bytes
+  64-bit Memory Address:           YES
+# Running the kernel...
+# Kernel complete.
+*** All checks complete.
+- Finalizing...
